@@ -1,8 +1,5 @@
 body {
   margin: 0;
-
-  /* BEGIN (write your solution here) */
-
   font-size: 18px;
   line-height: 1.5;
   color: #333;
@@ -10,21 +7,17 @@ body {
   /* END */
 }
 
-/* BEGIN (write your solution here) */
 h1 {
   margin: 50px 0 10px 0;   /*внешний отступ для всех сторон*/
   font-size: 60px;
   text-align: center;
 }
-/* END */
 
 h2 {
-  /* BEGIN (write your solution here) */
   margin: 0px 0 0 0;
   padding: 0 0 30px 0;
   font-size: 25px;
   text-align: center;  
-  /* END */
 
   border-bottom: 2px solid #e3e3e3;
 }
@@ -34,7 +27,6 @@ main {
   margin: auto;
 }
 
-/* BEGIN (write your solution here) */
 section {
   margin: 50px 0px 50px 0px;
   padding: 0px 50px 0px 50px;
@@ -49,4 +41,3 @@ section h2 {
 li {
   margin: 0 0 10px 0 
 }
-/* END */
